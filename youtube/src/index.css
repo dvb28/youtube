@@ -1,0 +1,24 @@
+@tailwind components;
+
+
+.tooltip {
+  @apply invisible absolute whitespace-nowrap;
+}
+
+.has-tooltip:hover .tooltip {
+  @apply visible z-50
+}
+
+@tailwind utilities;
+
+@layer base {
+    html {
+        font-family: 'Roboto', sans-serif;
+    }
+    body {
+        font-family: 'Roboto', sans-serif;
+    }
+}
+
+
+@tailwind base;
