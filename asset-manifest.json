@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/gbsteel/static/css/main.94f489a0.css",
+    "main.js": "/gbsteel/static/js/main.0a758c7a.js",
+    "static/js/787.9ecde847.chunk.js": "/gbsteel/static/js/787.9ecde847.chunk.js",
+    "static/media/slide-3.jpg": "/gbsteel/static/media/slide-3.72fb031298deca817cc9.jpg",
+    "static/media/slide-2.jpg": "/gbsteel/static/media/slide-2.0e7e7e56b32bbd3c261a.jpg",
+    "static/media/slide-5.jpg": "/gbsteel/static/media/slide-5.8c84cdd594c2733945bc.jpg",
+    "static/media/slide-1.jpg": "/gbsteel/static/media/slide-1.a28d65f30535d5ddb1e3.jpg",
+    "static/media/slide-4.jpg": "/gbsteel/static/media/slide-4.cf7f75ff01c995df094d.jpg",
+    "static/media/ginza.jpg": "/gbsteel/static/media/ginza.dd5f6cffa0385263265d.jpg",
+    "index.html": "/gbsteel/index.html",
+    "main.94f489a0.css.map": "/gbsteel/static/css/main.94f489a0.css.map",
+    "main.0a758c7a.js.map": "/gbsteel/static/js/main.0a758c7a.js.map",
+    "787.9ecde847.chunk.js.map": "/gbsteel/static/js/787.9ecde847.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94f489a0.css",
+    "static/js/main.0a758c7a.js"
+  ]
+}
